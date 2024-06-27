@@ -2,7 +2,7 @@
 
 Here i will be uplaoding some latest practic project
 
-###Stack:
+### Stack:
 - HTML
 - CSS
 - Tailwind
